@@ -10,7 +10,7 @@ The labs are organized by their corresponding lab identifier, which can be used 
 
 ## Labs
 
-- lab-007: [Set Up Network and HTTP Load Balancers](<https://www.cloudskillsboost.google/focuses/12007?parent=catalog>)
+- gsp007: [Set Up Network and HTTP Load Balancers](<https://www.cloudskillsboost.google/focuses/12007?parent=catalog>)
 
 ## Requirements
 
