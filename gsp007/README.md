@@ -1,4 +1,4 @@
-# GSP007 - Load Balancer
+# GSP007 - Set Up Network and HTTP Load Balancers
 
 This instruction doesn't work:
 
