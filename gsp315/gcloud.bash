@@ -1,0 +1,1 @@
+gcloud projects remove-iam-policy-binding qwiklabs-gcp-03-ae7c71d81c3e --member='user:student-02-d6f31f40173c@qwiklabs.net' --role='roles/viewer'
