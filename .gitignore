@@ -43,4 +43,6 @@ service.json
 
 .terraform.lock.hcl
 
+.idea
+
 # End of https://www.toptal.com/developers/gitignore/api/terraform
