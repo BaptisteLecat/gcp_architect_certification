@@ -40,4 +40,6 @@ terraform.rc
 # Ignore all service-account.json files
 service-account.json
 
+.terraform.lock.hcl
+
 # End of https://www.toptal.com/developers/gitignore/api/terraform
