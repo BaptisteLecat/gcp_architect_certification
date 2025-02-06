@@ -39,6 +39,7 @@ terraform.rc
 
 # Ignore all service-account.json files
 service-account.json
+service.json
 
 .terraform.lock.hcl
 
